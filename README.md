@@ -4,4 +4,4 @@ a group of interesting exercises in javaScript, instructed by "Eloquent javaScri
 ## demos
 * [convert String to Html Execise](http://williammer.github.io/works/convertStr2HtmlExecise)
 * [Ecosystem Exercise](http://williammer.github.io/works/ecosystemExercise)
-* [sokoban Exercise](http://williammer.github.io/works/sokobanExercise)
+* [Sokoban Exercise](http://williammer.github.io/works/sokobanExercise)
